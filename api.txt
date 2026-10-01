@@ -1,0 +1,10 @@
+    Arquivo para teste da API.
+    Btw .txt não é uma extensão
+    válida nem nada, apenas fins
+    para fins didáticos.
+
+http POST localhost:3000/ nome=Dusk email=dusk@etec.quirino
+http localhost:3000/
+http localhost:3000/ID
+http PUT localhost:3000/5 nome="Dusk Editado"
+http DELETE localhost:3000/ID
